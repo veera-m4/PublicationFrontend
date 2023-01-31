@@ -1,0 +1,25 @@
+[
+    {
+        "content":{"hindex" : 23,
+        "iindex" : 34},
+        "title" : "Scopus"
+    },
+    {
+        "content" :{"hindex" : 23,
+        "iindex" : 34
+    },
+        "title" : "google scholar"
+    },
+    {
+        "content" :{"hindex" : 23,
+        "iindex" : 34
+    },
+        "title" : "clarivate"
+    },
+    {
+        "content":{
+        "Books" : 23,
+        "Conference" : 34},
+        "title" : "Book and conference"
+    }
+]

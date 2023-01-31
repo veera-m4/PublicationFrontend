@@ -1,0 +1,12 @@
+[
+    {
+        "display_name": "dashboard",
+        "route": "/",
+        "icon": "bx bxs-dashboard"
+    },
+    {
+        "display_name": "Setting",
+        "route": "/publications",
+        "icon": "bx bx-cog"
+    }
+]
